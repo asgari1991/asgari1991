@@ -1,4 +1,5 @@
-## Hi There
+## Mohammad Askari
+#### Frontend Developer
 - 👋 Hi, I’m Mohammad Askari
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning TS
