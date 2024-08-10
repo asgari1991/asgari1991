@@ -5,8 +5,11 @@
 - 🌱 I’m currently learning TS
 - 💞️ I’m looking to collaborate on React Projects
 - 📫 How to reach me m.askari1991@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asgari1991&show_icons=true&theme=transparent)
+
+
+
 
 <!---
 asgari1991/asgari1991 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
