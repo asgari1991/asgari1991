@@ -7,6 +7,10 @@
 - 📫 How to reach me m.askari1991@gmail.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asgari1991&show_icons=true&theme=transparent)
+---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asgari1991&layout=compact)
+
+
 
 
 
