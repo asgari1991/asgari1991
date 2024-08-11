@@ -18,12 +18,7 @@
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asgari1991&layout=compact)
 ---
-## My Prefered Technologies:
-<ul>
-  <li>ReactJs</li>
-  <li>Tailwind-CSS</li>
-  <li>TypeScript</li>
-</ul>
+
 
 
 
