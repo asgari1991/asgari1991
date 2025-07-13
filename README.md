@@ -2,7 +2,7 @@
 #### Frontend Developer
 - 👋 Hi, I’m **Mohammad Askari**
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning TS
+- 🌱 I’m currently deeping into NextJs
 -  I’m looking to `collaborate on React Projects`
 - 📫 How to reach me mo.askari1991@gmail.com
 ---
